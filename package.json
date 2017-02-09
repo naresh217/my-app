@@ -1,0 +1,24 @@
+{
+  "name": "tmn-assets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "webpack-dev-server --progress --colors",
+    "start": "npm run server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.0.0-alpha.5",
+    "css-loader": "^0.26.1",
+    "extract-text-webpack-plugin": "^2.0.0-beta",
+    "file-loader": "^0.10.0",
+    "font-awesome": "^4.7.0",
+    "node-sass": "^4.5.0",
+    "path": "^0.12.7",
+    "sass-loader": "^5.0.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^2.2.1"
+  }
+}

@@ -1,0 +1,13 @@
+/**
+ * Created by Naresh Chakilam on 2/9/17.
+ */
+
+@import "custom/custom_variable";
+@import '~bootstrap/scss/bootstrap';
+
+$fa-font-path:        "~font-awesome/fonts" !default;
+@import "~font-awesome/scss/font-awesome";
+
+body{
+  border:1px solid red;
+}
